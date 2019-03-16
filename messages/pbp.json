@@ -1,0 +1,5 @@
+{
+  "commandDescription": "write the commmit id to a version custom setting",
+  "settingFlagDescription": "name of setting to write commit info to",
+  "fieldFlagDescription": "name to field to write commit info to"
+}
